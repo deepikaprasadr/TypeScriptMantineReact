@@ -12,3 +12,6 @@ cd my-mantine-app
 npm install @mantine/form
 
 src/index.js, wrap your <App /> component with MantineProvider:
+
+
+AquaButton Component created and added.
